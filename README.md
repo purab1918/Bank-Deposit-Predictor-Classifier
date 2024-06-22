@@ -18,5 +18,6 @@ Client Information: Age, job, marital status, education level, etc.
 Contact Details: Date of last contact, type of communication, etc.
 Campaign Information: Number of contacts performed, days since the last contact, previous outcomes, etc.
 Economic Context: Consumer price index, consumer confidence index, etc.
+Customer Loan: current loans, previous loans status.
 Target Variable (y): Indicates whether the client subscribed to the term deposit (yes/no).
 This data is crucial for understanding the patterns and trends in customer behavior that lead to successful term deposit subscriptions.
